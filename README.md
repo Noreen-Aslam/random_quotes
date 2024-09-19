@@ -12,16 +12,3 @@ Technologies Used:
 TypeScript
 Node.js
 Inquirer
-
-How to Use:
-Clone the Repository: git clone https://github.com/your-username/random-quote-generator.git
-Navigate to the Project Directory: cd random-quote-generator
-Install Dependencies: npm install
-Run the Application: npm start
-Generate Quotes: Press enter to receive a random quote.
-
-Contributing:
-Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
-
-Acknowledgements:
-Special thanks to Inquirer for providing the interactive CLI prompts.
